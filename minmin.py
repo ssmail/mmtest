@@ -2,6 +2,9 @@
 # !/usr/bin/env python
 # author = hongkefeng@weidian.com
 
+# download  https://github.com/SavinaRoja/PyUserInput.git
+# exec python setup.py install
+
 from selenium import webdriver
 from time import sleep
 from selenium.webdriver.common import action_chains, keys
