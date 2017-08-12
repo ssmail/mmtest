@@ -51,6 +51,9 @@ def login(user_name, user_password):
 
     sleep(3)
 
+    # 关闭浏览器
+    driver.quit()
+
 
 user_password = "aaaa"
 user_name = "bb"
