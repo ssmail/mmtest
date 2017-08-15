@@ -1,6 +1,5 @@
 # -*- coding: utf-8 -*-
 # !/usr/bin/env python
-# author = hongkefeng@weidian.com
 
 # download  https://github.com/SavinaRoja/PyUserInput.git
 # exec python setup.py install
@@ -18,7 +17,7 @@ k = PyKeyboard()
 
 def login(user_name, user_password):
     # 访问主页
-    driver.get("https://www.248365365.com/zh-CHS/#/IP/")
+    driver.get("https://www.xxx.com/zh-CHS/#/IP/")
     sleep(3)
 
     # 点击去登录按钮
